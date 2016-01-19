@@ -79,5 +79,22 @@ touch Multiplication.scala
 
 > You can check final content of the Multiplication.scala [here](src/main/scala/com/netaporter/Multiplication.scala)
 
+#### Typesafe activator
+```
+$ brew install typesafe-activator 
+$ activator new my-project-name
 
+Fetching the latest list of templates...
+
+Browse the list of templates: http://typesafe.com/activator/templates
+Choose from these featured templates or enter a template name:
+  1) minimal-akka-java-seed
+  2) minimal-akka-scala-seed
+  3) minimal-java
+  4) minimal-scala
+  5) play-java
+  6) play-scala
+(hit tab to see a list of all templates)
+>
+```
 
